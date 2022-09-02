@@ -1,3 +1,4 @@
-# DSF_Notebook
+# DSF
 
-This Learning and Application Notebook is for the purpose of tracking my progress during my Data Science Fellowship. I will be reporting what I learn each week as well as how I applied these newly learned topics and skills. 
+
+One of the purposes of this repository is to house my DSF Learning and Application Notebook.
